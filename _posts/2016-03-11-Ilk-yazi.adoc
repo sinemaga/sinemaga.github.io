@@ -1,4 +1,3 @@
-= Blog Title
-:hp-tags: HubPress, Blog, Open Source
+= İlk yazı
 
-kjhfglkjdhfgsdsf
+deneme
